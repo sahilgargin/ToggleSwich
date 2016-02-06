@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>63278B12-E09D-49EB-88DA-38CD73355DF3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>983B150B8454F4F01FD895A3068AF5A36AB1EE98</key>
+		<string>https://github.com/sahilgargin/ToggleSwitch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ColorMaker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>983B150B8454F4F01FD895A3068AF5A36AB1EE98</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sahilgargin/ToggleSwitch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>983B150B8454F4F01FD895A3068AF5A36AB1EE98</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>983B150B8454F4F01FD895A3068AF5A36AB1EE98</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ToggleSwitch</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -11,11 +11,12 @@ import UIKit
 class ViewController: UIViewController {
     
     @IBOutlet weak var colorView: UIView!
-    
+ 
     @IBOutlet weak var redControl: UISwitch!
-    @IBOutlet weak var greenControl: UISwitch!
-    @IBOutlet weak var blueControl: UISwitch!
 
+    @IBOutlet weak var greenControl: UISwitch!
+    
+    @IBOutlet weak var blueControl: UISwitch!
     override func viewDidLoad() {
         super.viewDidLoad()
         
